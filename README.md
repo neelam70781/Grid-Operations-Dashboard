@@ -62,16 +62,6 @@ This interactive dashboard suite provides end-to-end visibility into power distr
 
 ---
 
-## Screenshots  
-1. **Auto Recloser Dashboard**:  
-   ![Auto Recloser](Screenshot_2025-04-01_114844.png)  
-2. **Power Distribution Dashboard**:  
-   ![Power Distribution](Screenshot_2025-04-01_114902.png)  
-3. **Circle Operations Overview**:  
-   ![Circle Operations](Screenshot_2025-04-01_114948.png)  
-
----
-
 ## Insights & Recommendations  
 - **Critical Feeders**: Bawana (439 faults) and Narela (431 faults) need infrastructure upgrades.  
 - **Recloser Optimization**: Low success rates (43%) suggest recalibration or replacement.  
